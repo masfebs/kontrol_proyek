@@ -1,5 +1,6 @@
 perencanaan pembuatan website untuk manajemen proyek.
 data yang digunakan untuk monitoring adalah jadwal pekerjaan, file RAB proyek, dan data realisasi biaya
 harapan dari website tersebut dapat menampilkan :
-dashboard berupa metriks2 pencapaian kemajuan/progress proyek, ketepatan waktu proyek, on budget/ over budget, top 5 kendala proyek 
-form upload dari excel untuk RAB dan realisasi biaya per masing2 proyek
+1.dashboard berupa metriks2 pencapaian kemajuan/progress proyek, ketepatan waktu proyek, on budget/ over budget, top 5 kendala proyek 
+2.form upload dari excel untuk RAB dan realisasi biaya per masing2 proyek
+langkah selanjutnya adalah melakukan uji coba kelayakan ke user terkait : sales, teknik, akunting, controller
