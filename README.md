@@ -1,2 +1,2 @@
 # kontrol_proyek
-repo untuk manajemen proyek
+repo untuk pembuatan website manajemen proyek
